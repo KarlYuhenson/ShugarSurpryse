@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55521619-1b3f-4ad0-82d9-daf18500ee4d" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Сandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Сookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Sweets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Сandies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Сookies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1brXkuimj3G3Di2o7IfXOTZZ7Pj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ShugarSurprise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55521619-1b3f-4ad0-82d9-daf18500ee4d" name="Default Changelist" comment="" />
+      <created>1589391332421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589391332421</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1589397530080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589397530080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="284" key="#com.intellij.ide.util.MemberChooser" timestamp="1589394759442">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="836" y="284" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1589394759442" />
+    <state x="117" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589394595512">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="117" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589394595512" />
+    <state x="510" y="170" key="CommitChangelistDialog2" timestamp="1589397575985">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="510" y="170" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1589397575985" />
+    <state width="2006" height="329" key="GridCell.Tab.0.bottom" timestamp="1589397438797">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2006" height="329" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1589397438797" />
+    <state width="2006" height="329" key="GridCell.Tab.0.center" timestamp="1589397438796">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2006" height="329" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1589397438796" />
+    <state width="2006" height="329" key="GridCell.Tab.0.left" timestamp="1589397438796">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2006" height="329" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1589397438796" />
+    <state width="2006" height="329" key="GridCell.Tab.0.right" timestamp="1589397438797">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2006" height="329" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1589397438797" />
+    <state x="562" y="238" key="Maven.ArtifactSearchDialog" timestamp="1589393448397">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="562" y="238" key="Maven.ArtifactSearchDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589393448397" />
+    <state x="624" y="316" key="Vcs.Push.Dialog.v2" timestamp="1589397559600">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="624" y="316" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1589397559600" />
+    <state x="800" y="350" key="refactoring.ChangeSignatureDialog" timestamp="1589397223704">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="800" y="350" key="refactoring.ChangeSignatureDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1589397223704" />
+  </component>
+</project>
